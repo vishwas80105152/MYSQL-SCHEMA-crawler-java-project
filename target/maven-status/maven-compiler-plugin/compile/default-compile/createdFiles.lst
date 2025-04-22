@@ -1,0 +1,9 @@
+com/example/mysqlschemacrawler/dto/DatabaseMetadataResponse.class
+com/example/mysqlschemacrawler/config/DatabaseConfig.class
+com/example/mysqlschemacrawler/model/ColumnMetadata.class
+com/example/mysqlschemacrawler/MySqlSchemaCrawlerApplication.class
+com/example/mysqlschemacrawler/model/IndexMetadata.class
+com/example/mysqlschemacrawler/model/TableMetadata.class
+com/example/mysqlschemacrawler/util/NamingUtils.class
+com/example/mysqlschemacrawler/model/ForeignKeyMetadata.class
+com/example/mysqlschemacrawler/dto/GeneratedModelResponse.class

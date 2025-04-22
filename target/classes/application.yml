@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: mysql-schema-crawler
+
+crawler:
+  database:
+    url: jdbc:mysql://localhost:3306/your_database
+    username: root
+    password: Vishwas@2003
+    schema: mysql_db
+    model-package: com.example.model
+
+logging:
+  level:
+    com.example.mysqlschemacrawler: DEBUG
